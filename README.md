@@ -29,9 +29,9 @@
 <h3 align="center">🚀 Quick Links</h3>
 
 <p align="center">
+   <a href="https://mahesh-nadendla.onrender.com/">🎃 Halloween Portfolio</a> • 
   <a href="https://github.com/MaheshNadendla/inoutapp">🏫 Outing Management System</a> • 
   <a href="https://github.com/MaheshNadendla/chatApp">💬 WhatsApp Clone</a> • 
-  <a href="https://mahesh-nadendla.onrender.com/">🎃 Halloween Portfolio</a> • 
   <a href="https://github.com/MaheshNadendla">🧠 More Projects</a>
 </p>
 
