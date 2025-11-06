@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Nadendla Mahesh</h1>
+<h1 align="center">👨‍💻 Mahesh  Nadendla</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFA1&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;React+%2B+NodeJS+Enthusiast;Real-Time+App+Creator;UI%2FUX+Motion+Designer;Tech+Explorer+%26+Innovator" alt="Typing SVG" />
@@ -10,10 +10,11 @@
   <a href="https://mahesh-nadendla.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/MaheshNadendla"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/mahesh-nadendla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/mahesh_nadendla/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
   <a href="mailto:maheshnadendla147@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/maheshnadendla/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/profile/mn5737470"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
-  <a href="https://www.geeksforgeeks.org/user/mahesh_nadendla/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+ 
 </p>
 
 ---
