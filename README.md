@@ -1,27 +1,19 @@
-<img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;React+and+NodeJS+Enthusiast" />
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFAA;">Mahesh Nadendla</span></h1>
+<h1 align="center">👨‍💻 Nadendla Mahesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00FFA1&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;React+%2B+NodeJS+Enthusiast;Real-Time+App+Builder;UI%2FUX+Motion+Designer;Tech+Explorer+%26+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFA1&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;React+%2B+NodeJS+Enthusiast;Real-Time+App+Creator;UI%2FUX+Motion+Designer;Tech+Explorer+%26+Innovator" alt="Typing SVG" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-ReactJS-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-Supabase-3ECF8E?style=for-the-badge&logo=supabase" />
-  <img src="https://img.shields.io/badge/RealTime-Socket.IO-black?style=for-the-badge&logo=socket.io" />
-  <img src="https://img.shields.io/badge/UI%2FUX-Figma-F24E1E?style=for-the-badge&logo=figma" />
-</p>
-
----
-
-<h3 align="center">✨ Current Focus</h3>
-
-<p align="center">
-  Building <b>real-time communication systems</b>, creative <b>UI motion interfaces</b>, and <b>offline AI-driven IoT tools</b>.<br/>
-  Constantly improving my skills in <code>React</code>, <code>Socket.io</code>, and <code>Next.js</code>.
+  <a href="https://mahesh-nadendla.onrender.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/MaheshNadendla"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahesh-nadendla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:maheshnadendla147@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/maheshnadendla/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/mn5737470"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/mahesh_nadendla/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
 ---
@@ -29,30 +21,31 @@
 <h3 align="center">⚙️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind,bootstrap,js,ts,git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,java,python,git,github,bootstrap,tailwind,figma,postman,vscode,php" />
 </p>
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">🚀 Quick Links</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshnadendla&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheshnadendla&theme=react&hide_border=true" width="48%" />
+  <a href="https://github.com/MaheshNadendla/inoutapp">🏫 Outing Management System</a> • 
+  <a href="https://github.com/MaheshNadendla/chatApp">💬 WhatsApp Clone</a> • 
+  <a href="https://mahesh-nadendla.onrender.com/">🎃 Halloween Portfolio</a> • 
+  <a href="https://github.com/MaheshNadendla">🧠 More Projects</a>
 </p>
 
 ---
 
-<h3 align="center">🌐 Connect With Me</h3>
+<h3 align="center">📈 GitHub Insights</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:yourmail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaheshNadendla&show_icons=true&theme=react&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MaheshNadendla&theme=react&hide_border=true" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  🖤 <i>“Every frame matters — even while loading.”</i>
+  🖤 <i>“Code. Create. Connect. Repeat.”</i>
 </p>
