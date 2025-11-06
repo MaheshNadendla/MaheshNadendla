@@ -1,2 +1,3 @@
-<img src="https://github.com/username/repo/blob/main/assets/animation.gif" width="500" />
+<img src="https://readme-typing-svg.demolab.com?lines=Full+Stack+Developer;React+and+NodeJS+Enthusiast" />
+
 
