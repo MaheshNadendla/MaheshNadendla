@@ -1,1 +1,2 @@
-<img src="https://raw.githubusercontent.com/username/repo/main/animated.svg" />
+<img src="https://github.com/username/repo/blob/main/assets/animation.gif" width="500" />
+
