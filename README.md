@@ -22,8 +22,21 @@
 <h3 align="center">⚙️ Tech Stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,java,python,git,github,bootstrap,tailwind,figma,postman,vscode,php" />
+  <!-- Core Stack -->
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,supabase,html,css,js,c,java,python,php,tailwind,bootstrap" />
+  <br/>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,vercel" />
+  <br/>
+  
+  <!-- Extra Frameworks & Technologies -->
+  <img src="https://img.shields.io/badge/Socket.IO-black?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB%20Compass-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0078D7?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
+
 
 ---
 
